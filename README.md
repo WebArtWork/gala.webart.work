@@ -17,7 +17,7 @@ Live site: https://gala.webart.work
 - Phone: +380 67 381 22 21
 - Email: info@gala-hotel.com.ua
 - Address: вул. Лесі Українки, 84, Кам’янець-Подільський
-- Website/booking: https://gala-hotel.com.ua/ (категорії та ціни), Booking.com (перевірка доступності з hero), Google Maps CID-посилання для маршруту
+- Website/booking: https://gala-hotel.com.ua/ (категорії та ціни), форма `stay-request` (HotelOS) у hero, Google Maps CID-посилання для маршруту
 
 ## Photos
 Тимчасові стокові фото з Pexels (ліцензія Pexels, атрибуція не обов’язкова), 1440×960 JPG у `images/`. Hero і фінальний банер — реальна Кам’янець-Подільська фортеця; решта — ілюстративні, не фото самого «Гала Готель». Замінити на власні фото готелю, коли будуть.
