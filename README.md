@@ -37,4 +37,7 @@ Live site: https://gala.webart.work
 | `playground.jpg` | 19336565 | Fatima Yusuf |
 
 ## Notes
-Google 4.3/5 і 954 відгуки — знімок на 29.09.2026, показано без вигаданих цитат і без aggregateRating у structured data. Не підтверджені й не публікуються: категорії та ціни номерів, загальна місткість, меню та години ресторану, формат сніданку, деталі боулінгу, сауни, корту й конференц-залу, умови паркінгу, трансферу та проживання з тваринами, маршрути екскурсій, Instagram. Форма запиту не має бекенду: вона формує лист на info@gala-hotel.com.ua у поштовому застосунку відвідувача.
+Google 4.3/5 і 954 відгуки — знімок на 29.09.2026, показано без вигаданих цитат і без aggregateRating у structured data. Не підтверджені й не публікуються: категорії та ціни номерів, загальна місткість, меню та години ресторану, формат сніданку, деталі боулінгу, сауни, корту й конференц-залу, умови паркінгу, трансферу та проживання з тваринами, маршрути екскурсій, Instagram.
+
+## Forms
+Live forms send requests to HotelOS (hotelId `kp-gala`): `stay-request` (also used for group trips), `sauna-request`, `conference-request`. Phone is the only required field. The old Telegram request form was replaced; bowling, tennis and excursion CTAs go to the phone.
